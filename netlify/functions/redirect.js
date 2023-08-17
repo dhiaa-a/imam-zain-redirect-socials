@@ -1,4 +1,5 @@
-const CURRENT_DESTINATION_URL = "https://imam-zain-foundation.carrd.co/";
+// const CURRENT_DESTINATION_URL = "https://imam-zain-foundation.carrd.co/";
+const CURRENT_DESTINATION_URL = "http://www.example1.com/"
 
 exports.handler = async (event, context) => {
     try {
