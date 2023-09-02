@@ -1,4 +1,4 @@
-const CURRENT_DESTINATION_URL = "https://imam-zain-institution.carrd.co/";
+const CURRENT_DESTINATION_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley/";
 
 exports.handler = async (event, context) => {
     try {
